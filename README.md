@@ -1,0 +1,1 @@
+# Inheritance and class methods/attributes technical lesson
